@@ -18,6 +18,3 @@
      - ✅ Gagne au joueur qui atteint 3 points
      
      *Se trouve dans le dossier Graphical_101pong*
-    
-  
-# Obtention grade B 👻 
