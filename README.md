@@ -1,17 +1,11 @@
 # 101 pong - pong game
-
-1.  **Compétences :**
-     - 🔣 Mathématique :  *phénomène de reflection, rotation, translation* 
-     - 🐍 Découverte de Python
-     - 👾 Découverte de Pygame
-     
-2. **Code :**
+1. **Code :**
      - 📑 Liste les coordonés des points
      - 💥 Indique si la batte est touchée
      
      *Se trouve dans le dossier src*
      
-3. **Partie graphique :**
+2. **Partie graphique :**
      - ✅ La balle rebondie par rapport à la batte
      - ✅ La balle rebondie sur les murs
      - ✅ Compteur de point
